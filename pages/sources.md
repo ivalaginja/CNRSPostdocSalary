@@ -43,7 +43,7 @@ They have been found by scraping the web:
 
 # CNES
 
-Our source of the [CNES salary tables](/pages/salariesCNES) are original pay slips from past and current CNES postdocs,
+Our source of the [CNES salary tables](/pages/salariesCNES) are original payslips from past and current CNES postdocs,
 shared with their consent. They are not public documents, and we cannot share them as-is, but redacted information can
 be provided upon request. For further information, please contact [iva.laginja@oca.eu](mailto:iva.laginja@oca.eu).
 
